@@ -26,6 +26,8 @@ The script uses argparse to parse command-line arguments for two image paths. It
 
 This script encapsulates a complex process of feature detection, description, and matching, commonly used in computer vision applications such as image stitching, object recognition, and motion tracking. It specifically seems to implement algorithms similar to the Scale-Invariant Feature Transform (SIFT) or its variants for keypoint detection and matching.
 
+Example results are shown below:
+
 ![rezultat](https://github.com/kacdro/Algorithm-designed-for-detecting-and-matching-keypoints-between-two-images/assets/100469610/8eb11e82-eb3d-4ec0-b531-d5580d39bab9)
 
 
