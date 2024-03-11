@@ -6,11 +6,15 @@ Constants Definition: The script defines several constants related to the image 
 
 Class Definitions: It defines several classes, including:
 
-Interpolacja: An enumeration for interpolation methods.
-Obraz: A class representing an image with methods for loading, displaying, copying, saving, and manipulating pixels and pixel coordinates.
-PunktKluczowy: Represents a keypoint in an image.
-PiramidaSkal: Manages a pyramid of images scaled for multi-resolution analysis.
-Image Processing Functions: These include functions for converting RGB images to grayscale, Gaussian blurring, generating scale-space pyramids, detecting keypoints, computing keypoint descriptors, matching keypoints between two images, and drawing keypoints and matches on images.
+-Interpolacja: An enumeration for interpolation methods.
+
+-Obraz: A class representing an image with methods for loading, displaying, copying, saving, and manipulating pixels and pixel coordinates.
+
+-PunktKluczowy: Represents a keypoint in an image.
+
+-PiramidaSkal: Manages a pyramid of images scaled for multi-resolution analysis.
+
+-Image Processing Functions: These include functions for converting RGB images to grayscale, Gaussian blurring, generating scale-space pyramids, detecting keypoints, computing keypoint descriptors, matching keypoints between two images, and drawing keypoints and matches on images.
 
 Utility Functions: Functions for color conversion, Euclidean distance computation, and drawing matches between images using color coding.
 
