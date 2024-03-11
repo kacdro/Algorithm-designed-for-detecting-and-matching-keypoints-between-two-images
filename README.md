@@ -6,7 +6,7 @@ Constants Definition: The script defines several constants related to the image 
 
 Class Definitions: It defines several classes, including:
 
--Interpolacja: An enumeration for interpolation methods.
+- Interpolacja: An enumeration for interpolation methods.
 
 -Obraz: A class representing an image with methods for loading, displaying, copying, saving, and manipulating pixels and pixel coordinates.
 
